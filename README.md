@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Ronan-ptr
-- 👀 I’m interested in sport and technology
-- 🌱 I’m currently learning how to code web app with PHP, MySQL, JavaScript, HTML and CSS.
-- 💞️ I’m looking to collaborate on community project in domain of sport organanisation
-- 📫 How to reach me ronanpotier@gmail.com or on my Instagram ronan_ptr
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🏉 Dev en herbe | Sportif passionné
+J'ai pour ambition de codé des outils pour les associations sportives. Phyton, PHP, MySQL, JS – en quête de projets collaboratifs !
+Contact : ronanpotier@gmail.com
 
 <!---
 Ronan-ptr/Ronan-ptr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
